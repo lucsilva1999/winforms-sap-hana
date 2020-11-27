@@ -1,0 +1,12 @@
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\bin\Debug\MobenasaniTeste.exe.config
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\bin\Debug\MobenasaniTeste.exe
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\bin\Debug\MobenasaniTeste.pdb
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\MobenasaniTeste.csprojAssemblyReference.cache
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\MobenasaniTeste.Properties.Resources.resources
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\MobenasaniTeste.csproj.GenerateResource.cache
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\RdlCompile.cache
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\RdlCompile.compiled
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\MobenasaniTeste.csproj.CoreCompileInputs.cache
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\MobenasaniTeste.exe
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\MobenasaniTeste.pdb
+C:\Users\Mobensani\source\repos\MobenasaniTeste\MobenasaniTeste\obj\Debug\MobenasaniTeste.Form1.resources
